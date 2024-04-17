@@ -5,12 +5,14 @@
             "name": "Debug with LLDB",
             "type": "lldb",
             "request": "launch",
-            "program": "${workspaceFolder}/Rust/${fileBasenameNoExtension}.exe",
+            "preLaunchTask": "Rust: Compile",
+            "program": "${workspaceFolder}/Rust/${fileBasenameNoExtension}",
             "args": [],
             "cwd": "${workspaceFolder}",
             "terminal": "external",
             "stopAtEntry": false,
-            "sourceLanguages": ["rust"]
+            "sourceLanguages": ["rust"],
+            "postRunCommand": "del ${workspaceFolder}/Rust/${fileBasenameNoExtension}.exe"
         }
     ]
 }

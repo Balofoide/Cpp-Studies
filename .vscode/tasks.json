@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Rust: Compile",
+            "type": "shell",
+            "command": "rustc",
+            "args": [
+                "${workspaceFolder}/Rust/${fileBasenameNoExtension}.rs",
+                "-o",
+                "${workspaceFolder}/Rust/${fileBasenameNoExtension}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
