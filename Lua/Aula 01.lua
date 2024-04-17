@@ -2,7 +2,7 @@
 Sendo elas detectadas sozinhas.   
 ]]
 
-float = 2.20
+float = 2.2
 numero = 200
 --[[Variaveis Inteiras(Int) e Float sao consideradas ambas como 
     Number
@@ -21,7 +21,7 @@ print("Tipo:",type(numero),"Valor:",numero)
 print("Tipo:",type(char),"Valor:",char)
 print("Tipo:",type(float),"Valor:",float)
 print("Tipo:",type(bool),"Valor:",bool)
-print("Tipo:",type(null),"Valor:",null)
+print("Tipo:",type(null),"Valor:6",null)
 print("Tipo:",type(type))
 print("\n----------------------")
 print("Testando NeoVim")

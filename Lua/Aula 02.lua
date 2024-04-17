@@ -16,6 +16,6 @@ n2=io.read("*number")
 
 n3 = n1+n2
 
-print(nome.." A soma entre "..n1.." e "..n2.." e igual a:"..n3)
+print(nome.." A soma entre "..n1.." e "..n2.." e igual a: "..n3)
 
 --Para concatenar usa-se ".." para dar espaço utiliza-se ","
