@@ -1,29 +1,18 @@
 # Estudos de Programação
-
+as dsa dsa
 Este repositório é um arquivo de anotações dos meus estudos em diversas linguagens de programação.
+ asd
+## Sobre das das d as das dsa 
 
-## Sobre
-
-Aqui estão minhas anotações, códigos e projetos relacionados aos meus estudos em diferentes linguagens de programação. Cada diretório é dedicado a uma linguagem específica.
-
+Aqui estão minhas anotações, códigos e projetosdas das relacionados aos meus estudos em diferentes linguagens de programação. Cada diretório é dedicado a uma linguagem específica.
+as das dasasdasdasd asd asd asd as
 ## Estrutura
+d C++.
+- **/Lua**: Códigos e projetos relacionados à linguagem Lua. asd 
+- **/Assembly**: Códigos e projetos relacid as das onados d aà linguagem Assembly.
+- **/Php**: Codigos e projetos relacionados a Php.sd
 
-- **/C++**: Códigos e projetos relacionados à linguagem C++.
-- **/Lua**: Códigos e projetos relacionados à linguagem Lua.
-- **/Assembly**: Códigos e projetos relacionados à linguagem Assembly.
-- **/Php**: Codigos e projetos relacionados a Php.
+## Como Contribuird asd as 
 
-## Como Contribuir
-
-Se encontrar erros, tiver sugestões ou quiser contribuir com mais informações para qualquer linguagem, sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Recursos
-
-Além das anotações, este repositório também pode conter referências a livros, tutoriais online e sites úteis para cada linguagem específica.
-
-## Nota
-
-Este repositório serve como um repositório central para meus estudos de programação. As anotações aqui podem variar em profundidade e complexidade, refletindo meu processo de aprendizado.
-
-Sinta-se à vontade para explorar e usar as informações aqui para o seu próprio aprendizado!
-
+Este repositório serve como um repositório central parasd a dasd asa meus estudos de programação. As anotações aqui podem variar em profundidade e complexidade, refasd asd 
+d d as  asd ad s
