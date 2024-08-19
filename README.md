@@ -8,7 +8,7 @@ Aqui estão minhas anotações, códigos e projetos relacionados aos meus estudo
 - **/Assembly**: Códigos e projetos relacionados à linguagem Assembly.
 - **/Pph**: Codigos e projetos relacionados a Php.
 - **/Php**: Codigos e projetos relacionados a Php.
-
+- **/Rust**: Codigo e projetos relacionados a Rust.
 ## Como Contribuir
 
 Se encontrar erros, tiver sugestões ou quiser contribuir com mais informações para qualquer linguagem, sinta-se à vontade para abrir issues ou enviar pull requests.
